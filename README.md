@@ -1,5 +1,6 @@
-# kpw-jinro-plugin
+# WolfCraft-Kpw-Edition
 かめぱわぁ〜るどの人狼プラグインです。
+正式名称 : [WolfCraft: Kpw Edition]
 
 動作確認済:
 Minecraft: Java Edition
