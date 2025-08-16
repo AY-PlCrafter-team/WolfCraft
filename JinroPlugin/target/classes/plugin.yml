@@ -1,0 +1,32 @@
+name: JinroPlugin
+main: com.yuta.jinro.JinroPlugin
+version: 1.0.0
+api-version: 1.20
+author: Yuta
+
+# コマンド定義
+commands:
+  jinro:
+    description: プレイヤー用人狼コマンド
+    usage: /<command> [subcommand]
+    aliases: [j]
+  jinro_admin:
+    description: 運営専用コマンド
+    usage: /<command> [subcommand]
+    aliases: [jad]
+  jinro_rop:
+    description: Rop専用コマンド
+    usage: /<command> [subcommand]
+    aliases: [jrop]
+
+# 権限の例
+permissions:
+  jinro.admin:
+    description: Jinro運営コマンドを使用可能
+    default: op
+  jinro.rop:
+    description: Ropコマンドを使用可能
+    default: op
+  jinro.player:
+    description: プレイヤー用コマンドを使用可能
+    default: true
