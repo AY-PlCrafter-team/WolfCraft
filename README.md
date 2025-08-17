@@ -1,6 +1,6 @@
-# WolfCraft-Kpw-Edition
-かめぱわぁ〜るどの人狼プラグインです。
-正式名称 : [WolfCraft: Kpw Edition]
+# WolfCraft-AY-Edition
+人狼プラグインです。
+正式名称 : [WolfCraft: AY Edition]
 
 動作確認済:
 Minecraft: Java Edition
