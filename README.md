@@ -1,6 +1,5 @@
 # WolfCraft
 人狼プラグインです。
-正式名称 : [WolfCraft]
 
 動作確認済:
 Minecraft: Java Edition
